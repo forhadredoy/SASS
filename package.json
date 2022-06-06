@@ -1,0 +1,16 @@
+{
+  "name": "sass-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "node-sass": "sass -w source/style.scss:build/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^17.7.2",
+    "node-sass": "^7.0.1"
+  }
+}

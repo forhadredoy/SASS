@@ -1,0 +1,38 @@
+.division {
+  background: rgb(186, 174, 174);
+}
+.division .head {
+  color: blue;
+}
+.division .paragraph {
+  color: yellow;
+}
+
+.div1 {
+  color: red;
+  font-size: 15px;
+  font-weight: bold;
+  border: 1px solid blue;
+  text-transform: capitalize;
+  font-style: italic;
+  background: black;
+}
+
+.button-basic, .button-submit, .button-report {
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button-report {
+  background-color: red;
+}
+
+.button-submit {
+  background-color: green;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
